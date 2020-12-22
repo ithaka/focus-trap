@@ -46,7 +46,7 @@
 		"publish:patch": "np patch --contents=dist --no-cleanup",
 		"publish:minor": "np minor --contents=dist --no-cleanup",
 		"publish:major": "np major --contents=dist --no-cleanup",
-		"postinstall": "b:lib"
+		"postinstall": "npm run b:lib"
 	},
 	"devDependencies": {
 		"@appnest/readme": "^1.2.5",
