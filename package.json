@@ -1,6 +1,6 @@
 {
 	"name": "@a11y/focus-trap",
-	"version": "1.0.5",
+	"version": "1.0.6-beta.0",
 	"license": "MIT",
 	"module": "index.js",
 	"author": "Andreas Mehlsen",
@@ -45,8 +45,7 @@
 		"postversion": "npm run readme && npm run b:lib",
 		"publish:patch": "np patch --contents=dist --no-cleanup",
 		"publish:minor": "np minor --contents=dist --no-cleanup",
-		"publish:major": "np major --contents=dist --no-cleanup",
-		"postinstall": "npm run b:lib"
+		"publish:major": "np major --contents=dist --no-cleanup"
 	},
 	"devDependencies": {
 		"@appnest/readme": "^1.2.5",

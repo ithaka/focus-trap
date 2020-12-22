@@ -79,3 +79,4 @@ ehthumbs.db
 /node_modules/
 /dist/
 /documentation/
+.npmrc
