@@ -5,7 +5,7 @@
 {{ template:description }}
 
 <p align="center">
-	<img src='https://raw.githubusercontent.com/andreasbm/focus-trap/master/assets/demo.gif' width='400'>
+	<img src='https://raw.githubusercontent.com/ithaka/focus-trap/master/assets/demo.gif' width='400'>
 </p>
 
 {{ bullets }}
