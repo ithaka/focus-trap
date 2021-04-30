@@ -1,20 +1,20 @@
 {
-	"name": "@a11y/focus-trap",
+	"name": "@ithaka/focus-trap",
 	"version": "1.0.6",
 	"license": "MIT",
 	"module": "index.js",
-	"author": "Andreas Mehlsen",
+	"author": "ITHAKA",
 	"description": "A lightweight web component that traps focus within a DOM node",
 	"bugs": {
-		"url": "https://github.com/andreasbm/focus-trap/issues"
+		"url": "https://github.com/ithaka/focus-trap/issues"
 	},
 	"publishConfig": {
 		"access": "public"
 	},
-	"homepage": "https://github.com/andreasbm/focus-trap#readme",
+	"homepage": "https://github.com/ithaka/focus-trap#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/andreasbm/focus-trap.git"
+		"url": "git+https://github.com/ithaka/focus-trap.git"
 	},
 	"keywords": [
 		"custom",
