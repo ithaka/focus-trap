@@ -203,5 +203,3 @@ export class FocusTrap extends HTMLElement implements IFocusTrap {
 		this.focused ? this.setAttribute("focused", "") : this.removeAttribute("focused");
 	}
 }
-
-if (!window.customElements.get('focus-trap')) customElements.define('focus-trap', FocusTrap);
